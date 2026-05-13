@@ -57,12 +57,6 @@ distilbert-spam-classifier/
 ├── notebooks/
 │   └── training.ipynb
 │
-├── models/
-│   └── distilbert_model/
-│
-├── app.py
-├── train.py
-├── predict.py
 ├── requirements.txt
 └── README.md
 ```
