@@ -94,12 +94,6 @@ distilbert-spam-classifier/
 # ▶️ Installation
 
 Clone the repository:
-
-```bash
-git clone https://github.com/your-username/distilbert-spam-classifier.git
-cd distilbert-spam-classifier
-```
-
 Install dependencies:
 
 ```bash
