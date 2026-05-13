@@ -46,23 +46,6 @@ Advantages:
 
 ---
 
-# 📂 Project Structure
-
-```bash
-distilbert-spam-classifier/
-│
-├── data/
-│   └── spam.csv
-│
-├── notebooks/
-│   └── training.ipynb
-│
-├── requirements.txt
-└── README.md
-```
-
----
-
 # ⚙️ Workflow
 
 1. Data Collection
